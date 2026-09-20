@@ -11,4 +11,24 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3498-reverse-degree-of-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
