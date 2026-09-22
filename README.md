@@ -39,4 +39,12 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0283-move-zeroes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
