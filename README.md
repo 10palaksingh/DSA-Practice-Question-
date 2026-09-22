@@ -31,4 +31,12 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
