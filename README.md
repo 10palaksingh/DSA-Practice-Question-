@@ -90,6 +90,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
+| [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 | [3524-find-x-value-of-array-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
@@ -105,4 +106,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
