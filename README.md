@@ -8,6 +8,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -95,4 +97,9 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
