@@ -61,6 +61,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 | [3524-find-x-value-of-array-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -165,4 +167,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
