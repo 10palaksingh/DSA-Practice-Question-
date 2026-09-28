@@ -77,6 +77,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0283-move-zeroes) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Depth-First Search
 |  |
@@ -218,4 +219,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
