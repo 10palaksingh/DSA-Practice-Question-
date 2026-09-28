@@ -63,6 +63,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1840-maximum-building-height](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1840-maximum-building-height) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -121,6 +122,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1840-maximum-building-height](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1840-maximum-building-height) |
 | [3524-find-x-value-of-array-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -136,6 +138,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1840-maximum-building-height](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1840-maximum-building-height) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
