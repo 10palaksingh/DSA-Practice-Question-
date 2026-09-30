@@ -15,6 +15,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1678-goal-parser-interpretation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -96,6 +97,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0283-move-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Depth-First Search
