@@ -196,6 +196,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Bitmask
