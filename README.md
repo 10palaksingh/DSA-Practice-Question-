@@ -9,6 +9,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0020-valid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
 | [0677-map-sum-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0677-map-sum-pairs) |
 | [0709-to-lower-case](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0709-to-lower-case) |
@@ -136,6 +137,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0677-map-sum-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0677-map-sum-pairs) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
