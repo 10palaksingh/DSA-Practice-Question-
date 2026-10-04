@@ -86,6 +86,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0118-pascals-triangle) |
+| [0134-gas-station](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0283-move-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0303-range-sum-query-immutable) |
@@ -211,6 +212,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1927-sum-game) |
