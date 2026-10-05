@@ -77,6 +77,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0230-kth-smallest-element-in-a-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0278-first-bad-version) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3161-block-placement-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3161-block-placement-queries) |
@@ -364,4 +365,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0142-linked-list-cycle-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
