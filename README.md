@@ -76,6 +76,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0275-h-index-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3161-block-placement-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3161-block-placement-queries) |
@@ -93,6 +94,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0304-range-sum-query-2d-immutable) |
