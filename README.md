@@ -47,6 +47,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0022-generate-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
@@ -92,6 +93,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
@@ -336,6 +338,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
