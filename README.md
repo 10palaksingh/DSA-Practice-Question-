@@ -22,6 +22,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0709-to-lower-case](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -241,6 +242,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -317,6 +319,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
