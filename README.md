@@ -58,6 +58,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0118-pascals-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0312-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0312-burst-balloons) |
+| [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0516-longest-palindromic-subsequence) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
@@ -290,6 +291,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0201-bitwise-and-of-numbers-range](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Bitmask
