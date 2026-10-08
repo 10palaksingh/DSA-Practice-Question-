@@ -12,6 +12,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
@@ -206,6 +207,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0142-linked-list-cycle-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0508-most-frequent-subtree-sum) |
