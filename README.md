@@ -118,6 +118,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0312-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0312-burst-balloons) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
@@ -292,6 +293,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0231-power-of-two](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
+| [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Bitmask
