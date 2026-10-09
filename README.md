@@ -13,6 +13,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
@@ -79,6 +80,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0022-generate-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
@@ -190,6 +192,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0200-number-of-islands](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
