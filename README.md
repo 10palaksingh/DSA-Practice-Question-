@@ -63,6 +63,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0516-longest-palindromic-subsequence) |
@@ -126,6 +127,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0303-range-sum-query-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
@@ -243,6 +245,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0390-elimination-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0492-construct-the-rectangle) |
