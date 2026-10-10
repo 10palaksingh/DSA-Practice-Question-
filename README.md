@@ -11,6 +11,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0032-longest-valid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0032-longest-valid-parentheses) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0301-remove-invalid-parentheses) |
@@ -240,6 +241,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
@@ -262,6 +264,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0020-valid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0032-longest-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
