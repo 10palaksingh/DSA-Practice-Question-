@@ -260,6 +260,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
+| [0326-power-of-three](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
@@ -420,6 +421,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0231-power-of-two](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0390-elimination-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
