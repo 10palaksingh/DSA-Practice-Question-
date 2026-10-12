@@ -70,6 +70,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
@@ -261,6 +262,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 ## Math
 |  |
@@ -326,6 +328,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0134-gas-station](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0330-patching-array) |
+| [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0420-strong-password-checker](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
@@ -359,6 +362,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0287-find-the-duplicate-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
 | [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
