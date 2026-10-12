@@ -111,6 +111,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0287-find-the-duplicate-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3161-block-placement-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3161-block-placement-queries) |
@@ -277,6 +278,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0326-power-of-three](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0504-base-7) |
