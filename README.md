@@ -18,6 +18,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0316-remove-duplicate-letters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
+| [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0424-longest-repeating-character-replacement) |
@@ -300,6 +301,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0234-palindrome-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
@@ -451,6 +453,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
