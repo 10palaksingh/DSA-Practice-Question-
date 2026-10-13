@@ -157,6 +157,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0697-degree-of-an-array) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
@@ -256,6 +257,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0508-most-frequent-subtree-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0508-most-frequent-subtree-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0677-map-sum-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0677-map-sum-pairs) |
+| [0697-degree-of-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0697-degree-of-an-array) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
