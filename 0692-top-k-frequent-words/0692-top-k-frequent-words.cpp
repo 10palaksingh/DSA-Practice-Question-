@@ -1,31 +1,35 @@
-class Solution {
-    struct compare{
-        bool operator()(const pair<int,string> &a, const pair<int,string> &b){
-            if(a.first!=b.first)
-                return b.first>a.first;
-            return a.second>b.second;
+struct Compare {
+        bool operator()(const pair<int, string> &a, const pair<int, string> &b){    
+            if(a.first==b.first){
+                return a.second<b.second; //priority given to b over a
+            } else {
+                return a.first>b.first;
+            }
         }
     };
+
+class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
-        unordered_map<string,int> m;
-        for(auto w:words){
+        unordered_map<string, int> m;
+        priority_queue<pair<int, string>, vector<pair<int, string>>, Compare> pq;
+
+        for(string w:words){
             m[w]++;
         }
 
-        priority_queue<pair<int,string>,vector<pair<int,string>>,compare>pq;
-
-        for(auto [key,val]:m){
-            pq.push({val,key});
+        for(auto &[w, i]:m){
+            pq.push({i, w});
+            if(pq.size()>k){
+                pq.pop();
+            }
         }
-        
-        vector<string> ans;
-        while(!pq.empty() and k>0){
-            ans.push_back(pq.top().second);
+        vector<string> res;
+        while(!pq.empty()){
+            res.push_back(pq.top().second);
             pq.pop();
-            k--;
         }
-
-        return ans;
+        reverse(res.begin(), res.end());
+        return res;
     }
 };
