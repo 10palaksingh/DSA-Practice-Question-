@@ -118,6 +118,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0300-longest-increasing-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
+| [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3161-block-placement-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3161-block-placement-queries) |
@@ -165,6 +166,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
 | [0794-valid-tic-tac-toe-state](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
