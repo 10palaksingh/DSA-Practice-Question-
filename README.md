@@ -137,6 +137,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0283-move-zeroes) |
@@ -255,6 +256,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
@@ -335,6 +337,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
@@ -422,6 +425,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
@@ -618,4 +622,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
