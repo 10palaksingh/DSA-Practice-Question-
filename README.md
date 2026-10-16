@@ -109,6 +109,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0035-search-insert-position) |
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -134,6 +135,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0118-pascals-triangle) |
