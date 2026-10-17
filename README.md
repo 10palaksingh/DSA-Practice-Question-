@@ -312,6 +312,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0172-factorial-trailing-zeroes) |
 | [0227-basic-calculator-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0263-ugly-number) |
