@@ -76,6 +76,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
@@ -96,6 +97,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0301-remove-invalid-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
@@ -319,6 +321,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0292-nim-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0326-power-of-three) |
+| [0357-count-numbers-with-unique-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0390-elimination-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
