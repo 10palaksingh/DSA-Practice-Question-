@@ -6,9 +6,9 @@ public:
             if(nums[i] == target){
                 return true;
             }
-           
         }
         return false;
-        
+     
+
     }
 };
