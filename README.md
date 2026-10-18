@@ -87,6 +87,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -110,6 +111,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0230-kth-smallest-element-in-a-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0508-most-frequent-subtree-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -128,6 +130,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3161-block-placement-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3161-block-placement-queries) |
@@ -139,6 +142,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0230-kth-smallest-element-in-a-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0508-most-frequent-subtree-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
 | ------- |
@@ -188,6 +192,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -264,6 +269,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0200-number-of-islands](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -313,6 +319,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
@@ -335,6 +342,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0504-base-7](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0504-base-7) |
 | [0593-valid-square](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1927-sum-game) |
@@ -486,6 +494,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
 |  |
@@ -531,6 +540,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0053-maximum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -667,4 +677,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
