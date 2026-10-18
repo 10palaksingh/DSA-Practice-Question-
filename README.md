@@ -57,6 +57,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0498-diagonal-traverse) |
 | [3498-reverse-degree-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3614-process-string-with-special-operations-ii) |
@@ -181,6 +182,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0500-keyboard-row) |
