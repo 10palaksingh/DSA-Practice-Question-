@@ -189,6 +189,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0498-diagonal-traverse](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
@@ -391,6 +392,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
@@ -633,6 +635,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0420-strong-password-checker](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Eulerian Circuit
