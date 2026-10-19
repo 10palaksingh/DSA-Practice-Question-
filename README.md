@@ -13,6 +13,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0316-remove-duplicate-letters) |
@@ -101,6 +102,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0022-generate-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
+| [0282-expression-add-operators](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
@@ -351,6 +353,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0326-power-of-three) |
