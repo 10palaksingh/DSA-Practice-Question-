@@ -138,6 +138,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0315-count-of-smaller-numbers-after-self](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
+| [0475-heaters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
@@ -195,6 +196,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
@@ -253,6 +255,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0295-find-median-from-data-stream](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0392-is-subsequence) |
+| [0475-heaters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0475-heaters) |
 | [0696-count-binary-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1768-merge-strings-alternately) |
@@ -419,6 +422,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
