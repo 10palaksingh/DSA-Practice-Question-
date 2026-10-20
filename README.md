@@ -105,6 +105,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0282-expression-add-operators](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0357-count-numbers-with-unique-digits) |
+| [0491-non-decreasing-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
@@ -190,6 +191,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
+| [0491-non-decreasing-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0495-teemo-attacking) |
@@ -316,6 +318,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0409-longest-palindrome](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0432-all-oone-data-structure) |
+| [0491-non-decreasing-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0508-most-frequent-subtree-sum) |
@@ -471,6 +474,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
 | [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
