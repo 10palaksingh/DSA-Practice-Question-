@@ -141,6 +141,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0475-heaters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0540-single-element-in-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -207,6 +208,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0500-keyboard-row](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
