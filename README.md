@@ -21,6 +21,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0409-longest-palindrome) |
@@ -82,6 +83,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0376-wiggle-subsequence) |
+| [0392-is-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
@@ -248,6 +250,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0287-find-the-duplicate-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1768-merge-strings-alternately) |
