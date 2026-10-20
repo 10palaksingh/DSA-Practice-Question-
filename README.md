@@ -486,6 +486,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
 | [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
+| [0476-number-complement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
