@@ -193,6 +193,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
@@ -370,6 +371,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0398-random-pick-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0504-base-7) |
@@ -414,6 +416,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
