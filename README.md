@@ -218,6 +218,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0794-valid-tic-tac-toe-state](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -294,6 +295,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -575,6 +577,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
 | [0794-valid-tic-tac-toe-state](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
