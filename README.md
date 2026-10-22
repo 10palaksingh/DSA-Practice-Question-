@@ -32,6 +32,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0500-keyboard-row](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
 | [0677-map-sum-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
@@ -267,6 +268,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0344-reverse-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0475-heaters) |
+| [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1768-merge-strings-alternately) |
@@ -397,6 +399,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
