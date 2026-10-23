@@ -408,6 +408,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0478-generate-random-point-in-a-circle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0479-largest-palindrome-product) |
 | [0492-construct-the-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -502,6 +503,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0593-valid-square](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 ## Design
@@ -770,6 +772,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0398-random-pick-index) |
+| [0478-generate-random-point-in-a-circle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Doubly-Linked List
 |  |
@@ -806,4 +809,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0069-sqrtx) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
