@@ -150,6 +150,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0540-single-element-in-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -228,6 +229,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
 | [0794-valid-tic-tac-toe-state](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
