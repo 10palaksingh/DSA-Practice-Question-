@@ -127,6 +127,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0508-most-frequent-subtree-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -299,6 +300,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0508-most-frequent-subtree-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -441,6 +443,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
