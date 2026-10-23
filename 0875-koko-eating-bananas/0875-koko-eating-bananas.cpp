@@ -4,7 +4,7 @@ long long totalH(vector<int>& piles , int hour){
     int n = piles.size();
     long long sum = 0;
     for(int i =0;i<n;i++){
-        sum  += ceil((double)(piles[i] )/(double)hour);
+        sum  = sum + ceil((double)(piles[i] )/(double)hour);
     }
     return sum;
 }
