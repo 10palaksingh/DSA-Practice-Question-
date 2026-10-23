@@ -94,6 +94,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0516-longest-palindromic-subsequence) |
+| [0553-optimal-division](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0553-optimal-division) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
@@ -224,6 +225,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0502-ipo](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0553-optimal-division](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0553-optimal-division) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0605-can-place-flowers) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
@@ -414,6 +416,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0507-perfect-number) |
+| [0553-optimal-division](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
