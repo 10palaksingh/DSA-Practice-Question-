@@ -131,6 +131,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0033-search-in-rotated-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -376,6 +377,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0172-factorial-trailing-zeroes) |
 | [0227-basic-calculator-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0231-power-of-two) |
@@ -782,4 +784,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0284-peeking-iterator) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
