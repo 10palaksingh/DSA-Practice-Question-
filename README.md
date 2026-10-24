@@ -21,6 +21,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -356,6 +357,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0398-random-pick-index) |
@@ -572,6 +574,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0229-majority-element-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
@@ -825,4 +828,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0478-generate-random-point-in-a-circle) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
