@@ -156,6 +156,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0540-single-element-in-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -241,6 +242,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
