@@ -250,6 +250,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [0794-valid-tic-tac-toe-state](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
@@ -390,6 +391,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0697-degree-of-an-array) |
+| [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -548,6 +550,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0304-range-sum-query-2d-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0432-all-oone-data-structure](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0432-all-oone-data-structure) |
 | [0677-map-sum-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0677-map-sum-pairs) |
+| [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -695,6 +698,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0142-linked-list-cycle-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0432-all-oone-data-structure) |
+| [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Indexed Tree
 |  |
@@ -860,4 +864,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0640-solve-the-equation) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
