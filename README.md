@@ -551,6 +551,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0432-all-oone-data-structure](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0432-all-oone-data-structure) |
 | [0677-map-sum-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0677-map-sum-pairs) |
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0707-design-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -699,6 +700,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0234-palindrome-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0432-all-oone-data-structure) |
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Indexed Tree
 |  |
