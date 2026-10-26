@@ -99,6 +99,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0376-wiggle-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
@@ -162,6 +163,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0354-russian-doll-envelopes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0450-delete-node-in-a-bst) |
 | [0475-heaters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
@@ -227,6 +229,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0376-wiggle-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0376-wiggle-subsequence) |
 | [0391-perfect-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
+| [0410-split-array-largest-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
@@ -536,6 +539,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0376-wiggle-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -663,6 +667,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0303-range-sum-query-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
