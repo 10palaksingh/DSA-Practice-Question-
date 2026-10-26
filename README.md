@@ -94,6 +94,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
+| [0354-russian-doll-envelopes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0392-is-subsequence) |
@@ -158,6 +159,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0287-find-the-duplicate-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0354-russian-doll-envelopes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
 | [0450-delete-node-in-a-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0450-delete-node-in-a-bst) |
@@ -220,6 +222,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
+| [0354-russian-doll-envelopes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0376-wiggle-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0376-wiggle-subsequence) |
 | [0391-perfect-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0391-perfect-rectangle) |
@@ -499,6 +502,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
+| [0354-russian-doll-envelopes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0451-sort-characters-by-frequency) |
@@ -824,6 +828,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0354-russian-doll-envelopes) |
 ## Reservoir Sampling
 |  |
 | ------- |
