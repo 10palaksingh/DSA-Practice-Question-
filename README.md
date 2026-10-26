@@ -447,6 +447,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0357-count-numbers-with-unique-digits) |
+| [0371-sum-of-two-integers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0398-random-pick-index) |
@@ -579,6 +580,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0476-number-complement) |
