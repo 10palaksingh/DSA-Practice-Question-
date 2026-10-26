@@ -385,6 +385,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0264-ugly-number-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
+| [0355-design-twitter](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0391-perfect-rectangle) |
@@ -565,6 +566,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0295-find-median-from-data-stream](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0355-design-twitter](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0432-all-oone-data-structure) |
 | [0677-map-sum-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0677-map-sum-pairs) |
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
@@ -717,6 +719,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0432-all-oone-data-structure) |
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0707-design-linked-list) |
@@ -781,6 +784,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0264-ugly-number-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
+| [0355-design-twitter](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0355-design-twitter) |
 | [0420-strong-password-checker](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0480-sliding-window-median) |
