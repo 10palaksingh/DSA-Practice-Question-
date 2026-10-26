@@ -87,6 +87,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0118-pascals-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0264-ugly-number-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0312-burst-balloons) |
@@ -378,6 +379,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
@@ -432,6 +434,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0227-basic-calculator-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
@@ -771,6 +774,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0420-strong-password-checker](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0420-strong-password-checker) |
