@@ -201,6 +201,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0162-find-peak-element](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
@@ -375,6 +376,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0290-word-pattern) |
@@ -598,6 +600,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0480-sliding-window-median) |
