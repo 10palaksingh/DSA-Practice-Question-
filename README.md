@@ -149,6 +149,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0275-h-index-ii) |
@@ -197,6 +198,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0134-gas-station](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0228-summary-ranges) |
