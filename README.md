@@ -261,6 +261,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0645-set-mismatch) |
+| [0665-non-decreasing-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0665-non-decreasing-array) |
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
