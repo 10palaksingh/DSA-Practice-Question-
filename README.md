@@ -107,6 +107,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0516-longest-palindromic-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0516-longest-palindromic-subsequence) |
 | [0553-optimal-division](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0553-optimal-division) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
+| [0650-2-keys-keyboard](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -474,6 +475,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0593-valid-square) |
 | [0640-solve-the-equation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0640-solve-the-equation) |
+| [0650-2-keys-keyboard](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
