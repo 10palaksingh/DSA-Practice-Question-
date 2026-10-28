@@ -93,6 +93,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0300-longest-increasing-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0354-russian-doll-envelopes) |
@@ -229,6 +230,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0312-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
@@ -364,6 +366,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0207-course-schedule](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -620,6 +623,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
@@ -627,6 +631,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0322-coin-change) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 ## Sliding Window
 |  |
