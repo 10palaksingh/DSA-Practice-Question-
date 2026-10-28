@@ -155,6 +155,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -207,6 +208,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0134-gas-station) |
@@ -697,6 +699,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0304-range-sum-query-2d-immutable) |
