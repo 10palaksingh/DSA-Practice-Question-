@@ -294,6 +294,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [0794-valid-tic-tac-toe-state](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
@@ -727,6 +728,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0798-smallest-rotation-with-highest-score) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
