@@ -45,6 +45,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0696-count-binary-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1021-remove-outermost-parentheses) |
@@ -977,4 +978,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [1093-statistics-from-a-large-sample](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1093-statistics-from-a-large-sample) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
