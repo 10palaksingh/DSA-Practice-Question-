@@ -127,6 +127,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0282-expression-add-operators) |
@@ -213,6 +214,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0035-search-insert-position](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0134-gas-station) |
@@ -613,6 +615,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0268-missing-number) |
