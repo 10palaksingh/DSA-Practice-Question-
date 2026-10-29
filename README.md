@@ -291,6 +291,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [0794-valid-tic-tac-toe-state](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0794-valid-tic-tac-toe-state) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
@@ -349,6 +350,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0481-magical-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0481-magical-string) |
 | [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0696-count-binary-substrings) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
