@@ -22,6 +22,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0344-reverse-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -447,6 +448,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0355-design-twitter](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0398-random-pick-index) |
@@ -574,6 +576,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0295-find-median-from-data-stream](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0354-russian-doll-envelopes) |
+| [0389-find-the-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0451-sort-characters-by-frequency) |
@@ -658,6 +661,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0287-find-the-duplicate-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0476-number-complement) |
