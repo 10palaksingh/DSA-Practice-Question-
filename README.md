@@ -36,6 +36,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0504-base-7](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0640-solve-the-equation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0640-solve-the-equation) |
 | [0677-map-sum-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0677-map-sum-pairs) |
@@ -111,6 +112,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0516-longest-palindromic-subsequence) |
 | [0553-optimal-division](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0553-optimal-division) |
+| [0583-delete-operation-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0650-2-keys-keyboard](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
@@ -982,6 +984,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1092-shortest-common-supersequence) |
 ## Cartesian Tree
