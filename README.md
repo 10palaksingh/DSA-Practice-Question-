@@ -156,6 +156,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0508-most-frequent-subtree-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0655-print-binary-tree) |
@@ -375,6 +376,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0508-most-frequent-subtree-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0655-print-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
@@ -545,6 +547,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
