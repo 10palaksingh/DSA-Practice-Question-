@@ -286,6 +286,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0553-optimal-division](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0553-optimal-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0624-maximum-distance-in-arrays) |
@@ -524,6 +525,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0598-range-addition-ii) |
 | [0640-solve-the-equation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
