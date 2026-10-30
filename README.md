@@ -38,6 +38,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0591-tag-validator) |
+| [0592-fraction-addition-and-subtraction](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0640-solve-the-equation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0640-solve-the-equation) |
 | [0677-map-sum-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0677-map-sum-pairs) |
@@ -79,6 +80,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0498-diagonal-traverse) |
+| [0592-fraction-addition-and-subtraction](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0640-solve-the-equation) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [3498-reverse-degree-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3498-reverse-degree-of-a-string) |
@@ -520,6 +522,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0507-perfect-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0507-perfect-number) |
 | [0553-optimal-division](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
+| [0592-fraction-addition-and-subtraction](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0593-valid-square) |
 | [0640-solve-the-equation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0650-2-keys-keyboard) |
@@ -1004,4 +1007,12 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0796-rotate-string) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0592-fraction-addition-and-subtraction) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
