@@ -270,6 +270,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0454-4sum-ii) |
@@ -460,6 +461,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0409-longest-palindrome](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0432-all-oone-data-structure) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0480-sliding-window-median) |
@@ -586,6 +588,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0389-find-the-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
