@@ -318,6 +318,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0798-smallest-rotation-with-highest-score](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
