@@ -300,6 +300,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0599-minimum-index-sum-of-two-lists](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0645-set-mismatch) |
@@ -545,6 +546,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0592-fraction-addition-and-subtraction](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0670-maximum-swap) |
@@ -606,6 +608,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0506-relative-ranks](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0747-largest-number-at-least-twice-of-others) |
