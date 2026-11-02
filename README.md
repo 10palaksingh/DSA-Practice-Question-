@@ -168,6 +168,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0590-n-ary-tree-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0655-print-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -202,6 +203,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0540-single-element-in-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
+| [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -224,6 +226,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0513-find-bottom-left-tree-value](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0513-find-bottom-left-tree-value) |
 | [0654-maximum-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0655-print-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
@@ -403,6 +406,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0655-print-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0797-all-paths-from-source-to-target) |
+| [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -583,6 +587,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0654-maximum-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
