@@ -124,6 +124,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0799-champagne-tower) |
+| [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1092-shortest-common-supersequence) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -318,6 +319,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0875-koko-eating-bananas](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0875-koko-eating-bananas) |
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
+| [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
@@ -721,6 +723,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0480-sliding-window-median](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0643-maximum-average-subarray-i) |
+| [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
 |  |
