@@ -322,6 +322,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
 | [1093-statistics-from-a-large-sample](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
@@ -690,6 +691,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3644-maximum-k-to-sort-a-permutation) |
