@@ -125,6 +125,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0799-champagne-tower) |
+| [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1092-shortest-common-supersequence) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
@@ -170,6 +171,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0590-n-ary-tree-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0655-print-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -228,6 +230,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0513-find-bottom-left-tree-value](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0513-find-bottom-left-tree-value) |
 | [0654-maximum-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0655-print-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
@@ -517,6 +520,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
@@ -826,6 +830,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0326-power-of-three](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
+| [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [3483-unique-3-digit-even-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
