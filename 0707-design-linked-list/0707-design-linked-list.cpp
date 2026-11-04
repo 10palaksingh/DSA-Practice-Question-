@@ -2,7 +2,7 @@ class Node{
 public:
    int data;
    Node*next;
-   Node(int val){  //constructor
+   Node(int val){  
     data = val;
     next = NULL;
    }
@@ -42,7 +42,7 @@ public:
     void addAtHead(int val) {
         Node* newnode = new Node(val);
         if(size == 0)
-        {                            //kahli hai toh aey wala case
+        {                            
           head = tail = newnode;
         }
         else{
@@ -54,10 +54,10 @@ public:
     
     void addAtTail(int val) {
         Node* newnode = new Node(val);
-         if(size == 0){    // agar khali hai toh ey wala case
+         if(size == 0){    
             head =  tail = newnode;
         }else{
-        tail->next = newnode;   //warna aey wala
+        tail->next = newnode;   
         tail = newnode;
         }
        
@@ -65,18 +65,17 @@ public:
     }
     
     void addAtIndex(int index, int val) {
-              //cases banrahe hai index ki value pe depend ho ke
-    //casel:
+              
      if(index<0 || index>size)
      {
         return;
      }
-     if(index == 0) //case2: addAtHead karraha hai
+     if(index == 0) 
      {
         addAtHead(val);
         return;
      }
-     if(index == size){   //case3: addAtTail bolraha hai
+     if(index == size){   
         addAtTail(val);
         return;
      }
@@ -84,9 +83,9 @@ public:
      Node* temp = head;
      for(int i = 0;i<index-1;i++){
         temp = temp->next;
-     }                           //index ki phele vali node pe pauch gaya 
-     newnode->next =temp->next;        //newnode ko index vali node se connect kardiya
-     temp->next = newnode;       //phele vali node ko newnode se connect kiya aur abb naya node add hogya apne index place pe
+     }                           
+     newnode->next =temp->next;        
+     temp->next = newnode;       
       size++;   
     }
     
@@ -95,36 +94,26 @@ public:
      {
         return;
      }
-     if(index == 0) //case2: delete at head
+     if(index == 0) 
      {
         Node*temp = head;
         head = head->next;
         delete temp;
-        if(size == 1) tail = NULL; //ek edge case;
+        if(size == 1) tail = NULL; 
      }
      else{  
           Node* temp = head;
           for(int i = 0;i<index-1;i++){
             temp=temp->next;
           }
-        Node*remove = temp->next;        //deleting element to store kiya
-          temp->next = temp->next->next; //temp->next ko deleting element ka next se connect kiya
-          delete remove;                 // delete kiya
-          if(index == size-1) tail = temp;   //tail ko adjust kiya
+        Node*remove = temp->next;        
+          temp->next = temp->next->next; 
+          delete remove;                 
+          if(index == size-1) tail = temp;  
      }
         size--;
     }
 };
-
-/**
- * Your MyLinkedList object will be instantiated and called as such:
- * MyLinkedList* obj = new MyLinkedList();
- * int param_1 = obj->get(index);
- * obj->addAtHead(val);
- * obj->addAtTail(val);
- * obj->addAtIndex(index,val);
- * obj->deleteAtIndex(index);
- */
 
 /**
  * Your MyLinkedList object will be instantiated and called as such:
