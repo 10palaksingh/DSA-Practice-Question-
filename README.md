@@ -340,6 +340,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
@@ -723,6 +724,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0645-set-mismatch](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -759,6 +761,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0643-maximum-average-subarray-i) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
 |  |
@@ -814,6 +817,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0528-random-pick-with-weight](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0528-random-pick-with-weight) |
 | [0732-my-calendar-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0732-my-calendar-iii) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1057,6 +1061,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0387-first-unique-character-in-a-string) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Linear Algebra
 |  |
 | ------- |
@@ -1100,4 +1105,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
