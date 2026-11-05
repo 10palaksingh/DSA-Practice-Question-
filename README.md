@@ -131,6 +131,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0799-champagne-tower](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0799-champagne-tower) |
 | [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
+| [1025-divisor-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
@@ -575,6 +576,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0670-maximum-swap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1025-divisor-game) |
 | [1093-statistics-from-a-large-sample](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1093-statistics-from-a-large-sample) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -915,6 +917,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1927-sum-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -976,6 +979,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -988,6 +992,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1025-divisor-game) |
 ## Data Stream
 |  |
 | ------- |
