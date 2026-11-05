@@ -215,6 +215,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -345,6 +346,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -396,6 +398,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0696-count-binary-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0696-count-binary-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -637,6 +640,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1840-maximum-building-height](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1840-maximum-building-height) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2089-find-target-indices-after-sorting-array) |
