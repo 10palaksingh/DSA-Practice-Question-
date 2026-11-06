@@ -131,6 +131,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0799-champagne-tower](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0799-champagne-tower) |
 | [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
+| [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1024-video-stitching](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1092-shortest-common-supersequence) |
@@ -162,6 +163,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0797-all-paths-from-source-to-target) |
+| [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
@@ -343,6 +345,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1024-video-stitching](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1024-video-stitching) |
@@ -513,6 +516,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0697-degree-of-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -583,6 +587,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
+| [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1025-divisor-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1025-divisor-game) |
 | [1093-statistics-from-a-large-sample](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1093-statistics-from-a-large-sample) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -734,6 +739,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -746,6 +752,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 ## Knapsack Problem
 |  |
 | ------- |
