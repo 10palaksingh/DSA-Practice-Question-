@@ -131,6 +131,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0799-champagne-tower](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0799-champagne-tower) |
 | [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
+| [1024-video-stitching](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1143-longest-common-subsequence) |
@@ -344,6 +345,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1024-video-stitching](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1024-video-stitching) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
 | [1093-statistics-from-a-large-sample](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
@@ -680,6 +682,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
+| [1024-video-stitching](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1024-video-stitching) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
