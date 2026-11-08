@@ -354,6 +354,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1093-statistics-from-a-large-sample](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [1169-invalid-transactions](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1169-invalid-transactions) |
+| [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
@@ -434,6 +435,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0797-all-paths-from-source-to-target) |
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
+| [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -461,6 +463,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0797-all-paths-from-source-to-target](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -470,6 +473,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0200-number-of-islands](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
+| [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -797,6 +801,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
+| [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bracket Sequences
 |  |
@@ -861,6 +866,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0835-image-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
