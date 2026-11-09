@@ -357,6 +357,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1093-statistics-from-a-large-sample](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [1125-smallest-sufficient-team](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1125-smallest-sufficient-team) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1169-invalid-transactions](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1169-invalid-transactions) |
 | [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -709,6 +710,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
 | [1024-video-stitching](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1024-video-stitching) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1927-sum-game) |
