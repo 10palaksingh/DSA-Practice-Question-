@@ -148,6 +148,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -396,6 +397,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3838-weighted-word-mapping) |
