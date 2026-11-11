@@ -300,6 +300,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0454-4sum-ii) |
@@ -523,6 +524,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0424-longest-repeating-character-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0480-sliding-window-median) |
@@ -592,6 +594,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0478-generate-random-point-in-a-circle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0478-generate-random-point-in-a-circle) |
