@@ -627,6 +627,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [3525-find-x-value-of-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
@@ -728,6 +729,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [3689-maximum-total-subarray-value-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Geometry
 |  |
 | ------- |
