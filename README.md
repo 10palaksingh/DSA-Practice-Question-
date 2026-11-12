@@ -351,6 +351,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0885-spiral-matrix-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0885-spiral-matrix-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-monotonic-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0896-monotonic-array) |
+| [0900-rle-iterator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0900-rle-iterator) |
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
@@ -763,6 +764,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0707-design-linked-list) |
 | [0732-my-calendar-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0732-my-calendar-iii) |
+| [0900-rle-iterator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0900-rle-iterator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -836,6 +838,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0594-longest-harmonious-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0900-rle-iterator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0900-rle-iterator) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
 | [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1124,6 +1127,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0284-peeking-iterator) |
+| [0900-rle-iterator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0900-rle-iterator) |
 ## Newton's Method
 |  |
 | ------- |
