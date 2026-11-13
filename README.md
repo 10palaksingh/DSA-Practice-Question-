@@ -387,6 +387,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1840-maximum-building-height](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1840-maximum-building-height) |
 | [1882-process-tasks-using-servers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1882-process-tasks-using-servers) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -706,6 +707,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1840-maximum-building-height](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1840-maximum-building-height) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2747-count-zero-request-servers) |
