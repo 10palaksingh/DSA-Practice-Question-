@@ -150,6 +150,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1955-count-number-of-special-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1955-count-number-of-special-subsequences) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -394,6 +395,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1882-process-tasks-using-servers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1882-process-tasks-using-servers) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1955-count-number-of-special-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1955-count-number-of-special-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1995-count-special-quadruplets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1995-count-special-quadruplets) |
