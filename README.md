@@ -475,6 +475,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0590-n-ary-tree-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0655-print-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
@@ -503,6 +504,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0655-print-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
@@ -528,6 +530,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0207-course-schedule](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0332-reconstruct-itinerary) |
+| [0743-network-delay-time](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1070,6 +1073,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0502-ipo](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0743-network-delay-time) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1882-process-tasks-using-servers) |
@@ -1242,4 +1246,12 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0886-possible-bipartition) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
