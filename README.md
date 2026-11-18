@@ -131,6 +131,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0416-partition-equal-subset-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0516-longest-palindromic-subsequence) |
 | [0553-optimal-division](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0553-optimal-division) |
@@ -634,6 +635,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0445-add-two-numbers-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0458-poor-pigs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0478-generate-random-point-in-a-circle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0479-largest-palindrome-product) |
@@ -909,6 +911,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0458-poor-pigs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
