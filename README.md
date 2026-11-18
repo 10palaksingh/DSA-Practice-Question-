@@ -51,6 +51,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0709-to-lower-case](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0796-rotate-string) |
+| [0838-push-dominoes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0838-push-dominoes) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -142,6 +143,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0799-champagne-tower) |
+| [0838-push-dominoes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0838-push-dominoes) |
 | [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
 | [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
@@ -451,6 +453,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0696-count-binary-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0696-count-binary-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0838-push-dominoes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0838-push-dominoes) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
