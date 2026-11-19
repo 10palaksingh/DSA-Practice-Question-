@@ -233,6 +233,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0400-nth-digit](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0450-delete-node-in-a-bst) |
+| [0456-132-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -323,6 +324,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0480-sliding-window-median) |
@@ -687,6 +689,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1023,6 +1026,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0732-my-calendar-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0732-my-calendar-iii) |
@@ -1058,6 +1062,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0654-maximum-binary-tree) |
