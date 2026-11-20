@@ -101,6 +101,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2596-check-knight-tour-configuration](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2596-check-knight-tour-configuration) |
 | [3498-reverse-degree-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3838-weighted-word-mapping) |
@@ -415,6 +416,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2596-check-knight-tour-configuration](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2596-check-knight-tour-configuration) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -490,6 +492,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2596-check-knight-tour-configuration) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
@@ -521,6 +524,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2596-check-knight-tour-configuration) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -964,6 +968,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2596-check-knight-tour-configuration](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2596-check-knight-tour-configuration) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3882-minimum-xor-path-in-a-grid) |
