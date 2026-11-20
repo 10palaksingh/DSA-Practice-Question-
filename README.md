@@ -582,6 +582,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0895-maximum-frequency-stack](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0895-maximum-frequency-stack) |
 | [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
@@ -699,6 +700,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0654-maximum-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
+| [0895-maximum-frequency-stack](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1021-remove-outermost-parentheses) |
@@ -809,6 +811,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0707-design-linked-list) |
 | [0732-my-calendar-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0732-my-calendar-iii) |
+| [0895-maximum-frequency-stack](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0895-maximum-frequency-stack) |
 | [0900-rle-iterator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0900-rle-iterator) |
 ## Bit Manipulation
 |  |
@@ -1033,6 +1036,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0493-reverse-pairs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0732-my-calendar-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0732-my-calendar-iii) |
+| [0895-maximum-frequency-stack](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0895-maximum-frequency-stack) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3161-block-placement-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3161-block-placement-queries) |
 ## Topological Sort
