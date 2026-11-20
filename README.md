@@ -101,6 +101,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2549-count-distinct-numbers-on-board](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2596-check-knight-tour-configuration](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2596-check-knight-tour-configuration) |
 | [3498-reverse-degree-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3614-process-string-with-special-operations-ii) |
@@ -415,6 +416,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [2089-find-target-indices-after-sorting-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2549-count-distinct-numbers-on-board](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2596-check-knight-tour-configuration](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2596-check-knight-tour-configuration) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -597,6 +599,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1995-count-special-quadruplets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1995-count-special-quadruplets) |
+| [2549-count-distinct-numbers-on-board](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -677,6 +680,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1927-sum-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2409-count-days-spent-together) |
+| [2549-count-distinct-numbers-on-board](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2549-count-distinct-numbers-on-board) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3524-find-x-value-of-array-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3525-find-x-value-of-array-ii) |
