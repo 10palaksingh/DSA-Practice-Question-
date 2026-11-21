@@ -81,6 +81,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3838-weighted-word-mapping) |
@@ -209,6 +210,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
@@ -427,6 +429,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3161-block-placement-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3161-block-placement-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -495,6 +498,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2596-check-knight-tour-configuration) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
@@ -606,6 +610,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
