@@ -31,6 +31,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0420-strong-password-checker](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0500-keyboard-row) |
@@ -1247,6 +1248,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0796-rotate-string) |
 ## Euclidean Algorithm
 |  |
@@ -1296,4 +1298,12 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0743-network-delay-time) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
