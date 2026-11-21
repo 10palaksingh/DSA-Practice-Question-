@@ -846,6 +846,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0389-find-the-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0397-integer-replacement) |
+| [0461-hamming-distance](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0638-shopping-offers) |
