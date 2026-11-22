@@ -74,6 +74,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1927-sum-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2129-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2409-count-days-spent-together) |
