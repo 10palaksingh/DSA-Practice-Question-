@@ -212,6 +212,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -277,6 +278,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
@@ -531,6 +533,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0743-network-delay-time](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0886-possible-bipartition) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
