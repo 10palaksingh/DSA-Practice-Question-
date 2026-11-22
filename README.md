@@ -383,6 +383,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0896-monotonic-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0896-monotonic-array) |
 | [0900-rle-iterator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0900-rle-iterator) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0957-prison-cells-after-n-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0957-prison-cells-after-n-days) |
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0978-longest-turbulent-subarray) |
@@ -604,6 +605,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0884-uncommon-words-from-two-sentences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0895-maximum-frequency-stack](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0895-maximum-frequency-stack) |
+| [0957-prison-cells-after-n-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0957-prison-cells-after-n-days) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1090-largest-values-from-labels](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1090-largest-values-from-labels) |
@@ -684,6 +686,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0779-k-th-symbol-in-grammar](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0883-projection-area-of-3d-shapes) |
+| [0957-prison-cells-after-n-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0957-prison-cells-after-n-days) |
 | [0976-largest-perimeter-triangle](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0976-largest-perimeter-triangle) |
 | [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1025-divisor-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1025-divisor-game) |
@@ -860,6 +863,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0779-k-th-symbol-in-grammar) |
+| [0957-prison-cells-after-n-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0957-prison-cells-after-n-days) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1089,6 +1093,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0287-find-the-duplicate-number) |
+| [0957-prison-cells-after-n-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0957-prison-cells-after-n-days) |
 ## Interactive
 |  |
 | ------- |
