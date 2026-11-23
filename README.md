@@ -406,6 +406,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -693,6 +694,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1093-statistics-from-a-large-sample](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1093-statistics-from-a-large-sample) |
 | [1175-prime-arrangements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1185-day-of-the-week) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -842,6 +844,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0732-my-calendar-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0732-my-calendar-iii) |
 | [0895-maximum-frequency-stack](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0895-maximum-frequency-stack) |
 | [0900-rle-iterator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0900-rle-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -969,6 +972,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0798-smallest-rotation-with-highest-score](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1171,6 +1175,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
