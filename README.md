@@ -51,6 +51,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0696-count-binary-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0796-rotate-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0796-rotate-string) |
 | [0838-push-dominoes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0838-push-dominoes) |
 | [0856-score-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0856-score-of-parentheses) |
@@ -475,6 +476,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0556-next-greater-element-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0696-count-binary-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0696-count-binary-substrings) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0838-push-dominoes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0838-push-dominoes) |
 | [0977-squares-of-a-sorted-array](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0977-squares-of-a-sorted-array) |
