@@ -444,6 +444,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [3161-block-placement-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3161-block-placement-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3524-find-x-value-of-array-i) |
@@ -708,6 +709,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [2409-count-days-spent-together](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2409-count-days-spent-together) |
 | [2549-count-distinct-numbers-on-board](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2549-count-distinct-numbers-on-board) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -918,6 +920,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2747-count-zero-request-servers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -1027,6 +1030,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0479-largest-palindrome-product](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0479-largest-palindrome-product) |
 | [1995-count-special-quadruplets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1995-count-special-quadruplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
@@ -1329,4 +1333,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0459-repeated-substring-pattern) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
