@@ -1346,4 +1346,5 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0626-exchange-seats](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
