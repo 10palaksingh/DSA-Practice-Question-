@@ -1342,4 +1342,8 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3411-maximum-subarray-with-equal-products) |
+## Database
+|  |
+| ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 <!---LeetCode Topics End-->
