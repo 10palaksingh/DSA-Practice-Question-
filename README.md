@@ -58,6 +58,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0884-uncommon-words-from-two-sentences](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
@@ -194,6 +195,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0691-stickers-to-spell-word](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0797-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
 | [1096-brace-expansion-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1096-brace-expansion-ii) |
 ## Tree
@@ -216,6 +218,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -282,6 +285,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
@@ -510,6 +514,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0886-possible-bipartition](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1971-find-if-path-exists-in-graph) |
