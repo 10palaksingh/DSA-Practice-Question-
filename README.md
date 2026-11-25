@@ -105,6 +105,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0985-sum-of-even-numbers-after-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -423,6 +424,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1598-crawler-log-folder) |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1674-minimum-moves-to-make-array-complementary) |
