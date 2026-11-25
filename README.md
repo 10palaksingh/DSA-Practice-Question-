@@ -69,6 +69,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1598-crawler-log-folder](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1598-crawler-log-folder) |
 | [1678-goal-parser-interpretation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -420,6 +421,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1598-crawler-log-folder](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1598-crawler-log-folder) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -752,6 +754,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1598-crawler-log-folder](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
