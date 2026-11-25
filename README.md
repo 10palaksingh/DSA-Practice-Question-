@@ -69,6 +69,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1556-thousand-separator](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1556-thousand-separator) |
 | [1598-crawler-log-folder](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1598-crawler-log-folder) |
 | [1678-goal-parser-interpretation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1768-merge-strings-alternately) |
