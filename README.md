@@ -268,6 +268,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [2333-minimum-sum-of-squared-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3161-block-placement-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3161-block-placement-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -466,6 +467,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -639,6 +641,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [3483-unique-3-digit-even-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3934-smallest-unique-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3934-smallest-unique-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -1262,6 +1265,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3934-smallest-unique-subarray) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -1347,4 +1351,12 @@ In this repository i will keep track record of my DSA questions that i have solv
 | ------- |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0626-exchange-seats) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
