@@ -421,6 +421,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1598-crawler-log-folder) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -790,6 +791,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1340-jump-game-v](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1340-jump-game-v) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1840-maximum-building-height](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1840-maximum-building-height) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -828,6 +830,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1927-sum-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1927-sum-game) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -994,6 +997,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [1352-product-of-the-last-k-numbers](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1674-minimum-moves-to-make-array-complementary) |
