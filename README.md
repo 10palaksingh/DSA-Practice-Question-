@@ -104,6 +104,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0640-solve-the-equation](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0640-solve-the-equation) |
 | [0885-spiral-matrix-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0885-spiral-matrix-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [0999-available-captures-for-rook](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0999-available-captures-for-rook) |
 | [1094-car-pooling](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1094-car-pooling) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
@@ -404,6 +405,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0996-number-of-squareful-arrays) |
+| [0999-available-captures-for-rook](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0999-available-captures-for-rook) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1024-video-stitching](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1024-video-stitching) |
@@ -1024,6 +1026,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [0883-projection-area-of-3d-shapes](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/0999-available-captures-for-rook) |
 | [1267-count-servers-that-communicate](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
