@@ -112,6 +112,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [2243-calculate-digit-sum-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2596-check-knight-tour-configuration](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2596-check-knight-tour-configuration) |
+| [3360-stone-removal-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3838-weighted-word-mapping) |
@@ -723,6 +724,7 @@ In this repository i will keep track record of my DSA questions that i have solv
 | [2409-count-days-spent-together](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2409-count-days-spent-together) |
 | [2549-count-distinct-numbers-on-board](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/2549-count-distinct-numbers-on-board) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3360-stone-removal-game](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/10palaksingh/DSA-Practice-Question-/tree/master/3525-find-x-value-of-array-ii) |
